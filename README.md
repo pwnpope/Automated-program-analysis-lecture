@@ -1,5 +1,5 @@
 ## Automated Program Analysis Presentation @ George Mason University
-= Discussed the topic of automated program analysis, with a specific focus on automated binary analysis using Binary Ninja. This included an exploration of the challenges and limitations inherent in the process.
+- Discussed the topic of automated program analysis, with a specific focus on automated binary analysis using Binary Ninja. This included an exploration of the challenges and limitations inherent in the process.
 
 - Explored how automation can be leveraged to identify vulnerabilities, bugs, and errors within binary code. Emphasis was placed on the efficiency gains and the reduction of human error that automation offers.
 
